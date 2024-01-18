@@ -1,0 +1,7 @@
+*.jpg
+*.m4a
+*.dll
+
+assets/
+docs/
+tests/
